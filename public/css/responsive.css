@@ -1,0 +1,144 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+	
+    .title .sr-btn-wrap{display: none;}
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+	.header ul{display: none;}
+    .header .logo-section h4{display: none;}
+    .header .logo-section {padding: 0px;}
+    .header .logo-section img{padding-top: 5px;}
+    .navbar-toggler span{width: 22px;}
+    .title h1{font-size: 28px;}
+    .stack-section .stack-box .tab-section .tab-2{float: left;}
+    .stack-section .stack-box .tab-section{margin-bottom: 45px;}
+    .stack-section .stack-box .stack-header .float .logo{width: 50px;}
+    .stack-section .stack-box .stack-header .float .title1{margin-top: 0px;}
+    .stack-section .stack-box .stack-header .right-side .sr-btn-wrap .sr-btn{padding: 6px 8px;min-width: 90px;}
+    .stack-section .stack-box .stack-header .right-side .sr-btn-wrap{margin-top: 0px;}
+    .navbar-brand{margin-right: 6px!important;}
+    .footer .invest{display: none;}
+    .footer .subscribe input{width: 100%;margin-bottom: 30px;}
+    .footer .subscribe button:hover{border: 1px solid #fd1ebe;color: #ffffff;background: #fd1ebe;}
+    .copyright{margin-top: 0px;}
+    .table-section{padding: 30px 0px 44px 0px;}
+    .home-page-first-section .image{position: relative;}
+    .home-page-first-section .content .connect-wallet{margin-bottom: 0px;}
+    .home-page-first-section .content .sr-btn-wrap{margin-top: 0px;}
+    .home-page-first-section .content .connect-wallet h1{font-size: 30px;}
+    .navbar-default.navbar-trans .dropdown{margin-left: 0px;}
+    /* .navbar .right-side{display: none;} */
+    .title .sr-btn-wrap{display: block;}
+
+    .stack-section .stack-box .balance .first-block p{font-size: 16px;}
+    .stack-section .stack-box .balance .second-block p{font-size: 16px;}
+    .stack-section .stack-box-1 .stack{border-bottom: 2px solid #242323;padding-bottom: 10px;}
+    .stack-section .stack-box-1 .stack:last-child{border-bottom: none;padding-bottom:0px;}
+    .title{padding: 27px 0px 30px 0px;}
+    .footer .footer-links .quick-links-2{margin-bottom: 0px;}
+    .product-description-review-section .nav-tabs{padding-left: 0px;}
+    .stack-section .stack-box .btn-section .button-word {margin-right: 19px!important;}
+    .navbar-brand h5 {margin-left: 8px;}
+    .stack-section .checkout-form-centre .checkout-login-step {padding: 0px!important;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .round {width: 100%!important;margin-right: 10px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .right-side-icon {width: 30%!important;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .round .box {padding: 10px 20px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section {padding: 15px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .right-side-icon .icon-round {padding: 9px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .round .box input {width: 100%;margin-right: 0px;margin-bottom: 10px;}
+    .stack-section .checkout-form-centre {margin-top: 50px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .round .box .sr-btn-wrap {padding-top: 30px;width: 100%;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .font-icon .round12 {width: 40px;height: 40px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .font-icon .round12 img {width: 20px;height: 20px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .font-icon h4 {font-size: 16px;}
+    .stack-section .app {margin-top: 0px;}
+    .stack-section .app h3 {font-size: 26px;margin-bottom: 50px;}
+    .spinner-container {left: 35%!important;}
+    .navbar .right-side ul li .sr-btn {min-width: 160px;padding: 7px 10px;border-radius:8px;}
+    .stack-section .checkout-form-centre .checkout-login-step .box-section .balence .round .box .icon {text-align: left;}
+    .transiction-table-section .scroll{overflow-x: scroll;white-space: nowrap;;}
+    .navbar .right-side {position: absolute;top: 30px;right: 20px;}
+
+
+     .navbar-nav {flex-direction: row;display: block;}
+     .navbar-nav li{margin-bottom: 15px;}
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+  
+
+}
+@media  (max-width: 480px) {
+    
+
+}
+@media (max-width: 991px) {
+  
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+	
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+ 
+	
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+	
+	
+	}

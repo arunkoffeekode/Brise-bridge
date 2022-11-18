@@ -1,0 +1,118 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+	
+    .title .sr-btn-wrap{display: none;}
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+	.header ul{display: none;}
+    .header .logo-section h4{display: none;}
+    .header .logo-section {padding: 0px;}
+    .header .logo-section img{padding-top: 5px;}
+    .navbar-toggler span{width: 22px;}
+    .title h1{font-size: 28px;}
+    .stack-section .stack-box .tab-section .tab-2{float: left;}
+    .stack-section .stack-box .tab-section{margin-bottom: 45px;}
+    .stack-section .stack-box .stack-header .float .logo{width: 50px;}
+    .stack-section .stack-box .stack-header .float .title1{margin-top: 0px;}
+    .stack-section .stack-box .stack-header .right-side .sr-btn-wrap .sr-btn{padding: 6px 8px;min-width: 90px;}
+    .stack-section .stack-box .stack-header .right-side .sr-btn-wrap{margin-top: 0px;}
+    .navbar-brand{margin-right: 6px!important;}
+    .footer .invest{display: none;}
+    .footer .subscribe input{width: 100%;margin-bottom: 30px;}
+    .footer .subscribe button:hover{border: 1px solid #fd1ebe;color: #ffffff;background: #fd1ebe;}
+    .copyright{margin-top: 0px;}
+    .table-section{padding: 30px 0px 44px 0px;}
+    .home-page-first-section .image{position: relative;}
+    .home-page-first-section .content .connect-wallet{margin-bottom: 0px;}
+    .home-page-first-section .content .sr-btn-wrap{margin-top: 0px;}
+    .home-page-first-section .content .connect-wallet h1{font-size: 30px;}
+    .navbar-default.navbar-trans .dropdown{margin-left: 0px;}
+    .navbar .right-side{display: none;}
+    .title .sr-btn-wrap{display: block;}
+    .stack-section{padding: 0px;}
+    .stack-section .stack-box .balance .first-block p{font-size: 16px;}
+    .stack-section .stack-box .balance .second-block p{font-size: 16px;}
+    .stack-section .stack-box-1 .stack{border-bottom: 2px solid #242323;padding-bottom: 10px;}
+    .stack-section .stack-box-1 .stack:last-child{border-bottom: none;padding-bottom:0px;}
+    .title{padding: 27px 0px 30px 0px;}
+    .footer .footer-links .quick-links-2{margin-bottom: 0px;}
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+  
+
+}
+@media  (max-width: 480px) {
+    
+
+}
+@media (max-width: 991px) {
+  
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+	
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+ 
+	
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+	
+	
+	}
